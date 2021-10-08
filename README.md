@@ -32,4 +32,5 @@
 + typora存在测试bug，无法同时上传多图片，单图片上传正常(非本程序问题)
 + 建议配合[snipaste](https://www.snipaste.com/)使用
 + 使用世纪互联，图片加载会更加快速
++ onedrive有翻车风险，建议不会再更改的文件导出为pdf
 
