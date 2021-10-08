@@ -16,16 +16,21 @@
 2. 用vscode打开项目，更改`main.go`中的`tar_url`
 
    ![image-20211008120535616](http://cloud.dusklight.top/images/2021/10/08/K5RVZTBjm9/image-20211008120535616.png)
-
-3. 配置oneindex
+3. 编译项目
+   
+   ```
+   go build
+   ```
+4. 配置oneindex
 
    ![image-20211008121015163](http://cloud.dusklight.top/images/2021/10/08/RnuVfdkTqU/image-20211008121015163.png)
 
-4. 配置typora
-
+5. 配置typora
+ 
+   + 将刚才编译生成的exe文件的存放路径放到自定义命令的路径中
    ![image-20211008121357041](http://cloud.dusklight.top/images/2021/10/08/xTIJ7W6el1/image-20211008121357041.png)
 
-5. 直接粘贴图片或拖动到typora编辑区域，图片将自动完成上传并且引用
+6. 直接粘贴图片或拖动到typora编辑区域，图片将自动完成上传并且引用
 
 ## Tips
 
